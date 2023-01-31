@@ -76,17 +76,6 @@
       ],
       "correctIndex": "1",
       "id": 7
-    },
-    {
-      "prompt": "What is my name?",
-      "answers": [
-        "Charles",
-        "James",
-        "Logan",
-        "Mike"
-      ],
-      "correctIndex": 0,
-      "id": 8
     }
   ]
 }
